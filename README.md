@@ -3,9 +3,8 @@
 ✔프로젝트 명 : 인천광역시 소득 분포 조사<br>
 ✔작업 기간 : ‘23. 05. 16 ~ ‘23. 05. 26<br>
 ✔작업 인원 : 1명<br>
-✔개발 환경 : Window 10 Pro x64bit
-✔사용 언어 : <br>
-- Python3.8.10, Anaconda23.3.1<br>
+✔개발 환경 : Window 10 Pro x64bit<br>
+✔사용 언어 : Python3.8.10, Anaconda23.3.1<br>
 <br>
 
 
