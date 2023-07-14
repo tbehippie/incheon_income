@@ -6,6 +6,8 @@
 ✔개발 환경 : Window 10 Pro x64bit<br>
 ✔사용 언어 : Python3.8.10, Anaconda23.3.1<br>
 <br>
+<h1>전처리 소스코드</h1>
+https://github.com/tbehippie/incheon_income/wiki/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C#-%EC%A0%84%EC%B2%98%EB%A6%AC
 
 
 <h1> 가설1 [가설1] 평균소득은 연령이 높아짐에 따라 지속적으로 상승하다가 50대에 정점을 찍고 하락 반전할 것이다.</h1>
