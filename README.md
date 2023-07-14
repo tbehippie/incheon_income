@@ -6,7 +6,7 @@
 ✔개발 환경 : Window 10 Pro x64bit<br>
 ✔사용 언어 : Python3.8.10, Anaconda23.3.1<br>
 <br>
-<h1>전처리 소스코드</h1>
+<h1>💾 소스코드</h1>
 https://github.com/tbehippie/incheon_income/wiki/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C#-%EC%A0%84%EC%B2%98%EB%A6%AC
 
 
